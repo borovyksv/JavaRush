@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/relzet/JavaRush.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/relzet/chat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\user-pc\Desktop\95\syit\" />
+    <option name="cloneParentDir" value="C:\Users\user-pc\IdeaProjects\github" />
   </component>
 </application>
