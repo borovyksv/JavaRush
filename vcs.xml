@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/relzet/Anketa.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/relzet/Security.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\user-pc\IdeaProjects\github" />
