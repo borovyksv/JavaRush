@@ -42,8 +42,12 @@
           <option name="url" value="https://github.com/paulc4/microservices-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/angular/angular-seed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\user-pc\IdeaProjects\microservices" />
+    <option name="cloneParentDir" value="C:\Users\user-pc\IdeaProjects\angular" />
   </component>
 </application>
