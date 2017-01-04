@@ -50,4 +50,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\user-pc\IdeaProjects\angular" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\user-pc\IdeaProjects\SpringAngular" />
+  </component>
 </application>
