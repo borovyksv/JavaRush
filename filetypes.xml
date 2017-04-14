@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="MainController" type="Native" />
+      <mapping ext="traineddata" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
