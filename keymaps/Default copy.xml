@@ -1,8 +1,4 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="Hotswap">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="SaveAll" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
