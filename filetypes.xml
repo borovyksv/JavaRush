@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="user,json" type="JSON" />
       <mapping pattern="MainController" type="Native" />
       <mapping ext="traineddata" type="PLAIN_TEXT" />
     </extensionMap>
