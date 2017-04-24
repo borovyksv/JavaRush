@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="user,json" type="JSON" />
       <mapping pattern="MainController" type="Native" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="traineddata" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
