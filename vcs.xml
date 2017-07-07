@@ -110,6 +110,10 @@
           <option name="url" value="https://github.com/randdusing/cordova-plugin-bluetoothle.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/don/BluetoothSerial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\user-pc\IdeaProjects\" />
