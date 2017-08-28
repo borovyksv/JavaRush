@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="user,json" type="JSON" />
       <mapping pattern="MainController" type="Native" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="traineddata" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
